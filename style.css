@@ -2,7 +2,16 @@
     margin: 0%;
     padding: 0%;
 }
-
+#logo{
+    max-width: 150;
+    height: auto;
+}
+#example-image{
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+}
 body{
     font-family: Arial, Helvetica, sans-serif;
     margin: 0;
